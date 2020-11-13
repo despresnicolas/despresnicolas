@@ -1,5 +1,8 @@
 
 ## Bonjour, je suis [despresnicolas](https://github.com/despresnicolas) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img align="right" src="https://ouch-cdn.icons8.com/thumb/718/f202801b-06ac-4b06-a87c-0521f847d8a7.png" height="450px"/>
+
 :seedling: *actuellement étudiant chez [Oclock](https://github.com/enterprises/cole-oclock)* :school:
 
 <p align="center">Apprentissage en cours:<p>
@@ -16,14 +19,6 @@
   <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00"/></a>
   <a href="https://golang.org/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
-<p align="center">Ma configution :computer: :<p>
-<p align="center" >
-  <a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge"/></a> 
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/></a> 
-  </br>
-  <a href="https://intel.com/"><img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a> 
-  <a href="https://amd.com/"><img src="https://img.shields.io/badge/amd-HD%207970%20GHz%20Edition-%23ED1C24.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/></a> 
-</p>
 <p align="center">Contactez-moi:<p>
   <p align="center">
   <a href="https://twitter.com/despresnico"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -31,10 +26,7 @@
   <a href="https://www.instagram.com/nicodesp/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
   <a href="https://slack.com/"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/></a> 
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> 
-
-  
-  
- </p>
+</p>
 
 
  
