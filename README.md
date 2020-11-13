@@ -1,5 +1,5 @@
 
-## Bonjour, je suis Nicolas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Bonjour, je suis [despresnicolas](https://github.com/despresnicolas) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 :seedling: *actuellement étudiant chez [Oclock](https://github.com/enterprises/cole-oclock)* :school:
 
 <p align="center">Apprentissage en cours:<p>
