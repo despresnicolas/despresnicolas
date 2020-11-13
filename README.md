@@ -1,7 +1,7 @@
 
 ## Bonjour, je suis [despresnicolas](https://github.com/despresnicolas) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://ouch-cdn.icons8.com/thumb/718/f202801b-06ac-4b06-a87c-0521f847d8a7.png" height="450px"/>
+<img align="right" src="https://ouch-cdn.icons8.com/thumb/718/f202801b-06ac-4b06-a87c-0521f847d8a7.png" height="400px"/>
 
 :seedling: *actuellement étudiant chez [Oclock](https://github.com/enterprises/cole-oclock)* :school:
 
