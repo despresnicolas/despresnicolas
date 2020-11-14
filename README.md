@@ -1,9 +1,8 @@
 
 ## Bonjour, je suis [despresnicolas](https://github.com/despresnicolas) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-:seedling: *actuellement étudiant chez [Oclock](https://github.com/enterprises/cole-oclock)* :school:
 <img align="right" src="https://ouch-cdn.icons8.com/thumb/718/f202801b-06ac-4b06-a87c-0521f847d8a7.png" height="380px"/>
 
+:seedling: *actuellement étudiant chez [Oclock](https://github.com/enterprises/cole-oclock)* :school:
 <p align="center">Apprentissage en cours:<p>
 <p align="center" >
   <a href="https://devdocs.io/html/"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
