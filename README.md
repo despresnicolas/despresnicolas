@@ -9,7 +9,7 @@
   <a href="https://devdocs.io/css/"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://devdocs.io/javascript/"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /></a>
   <a href="https://devdocs.io/node/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://docs.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://devdocs.io/react/"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>
 </p>
 <p align="center">Contactez-moi:<p>
   <p align="center">
